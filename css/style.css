@@ -1,0 +1,129 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* header style */
+header {
+  display: flex;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+#img1 {
+  width: 68px;
+  padding-top: px;
+  padding-left: 30px;
+}
+
+header p {
+  font-weight: bold;
+  color: #032d60;
+  padding-top: 14px;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+header li {
+  list-style-type: none;
+}
+
+header a {
+  color: #032d60;
+}
+
+#num {
+  margin-left: -20px;
+}
+
+ul {
+  margin-left: 30%;
+  color: #032d60;
+}
+
+header button a {
+  text-decoration: none;
+  color: white;
+}
+
+#but1 {
+  color: white;
+  margin-left: 270px;
+  width: 150px;
+  height: 45px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: #2e844a;
+}
+
+/* homepage style */
+#top button a { 
+  text-decoration: none;
+}
+#top {
+  background-image: url(../img/homepage-post-df-cost-savings-lg-bg.webp);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  /* border: solid; */
+  box-sizing: border-box;
+}
+
+#b2 {
+  background-color: #0176d3;
+  border-radius: 5px;
+  width: 150px;
+  height: 45px;
+  border-style: none;
+}
+
+#but2 {
+  text-decoration: none;
+  color: white;
+}
+
+#b3 {
+  background-color: white;
+  border-radius: 5px;
+  width: 120px;
+  height: 45px;
+  border-color: #0176d3;
+  margin-left: 20px;
+}
+
+#but3 {
+  text-decoration: none;
+  color: #0176d3;
+  background-color: white;
+  border-color: #0176d3;
+}
+
+#topimg {
+  /* margin-right: auto; */
+  /* display: block; */
+  padding-top: 50px;
+  position: absolute;
+  width: 600px;
+  margin-left: 65px;
+}
+
+#text {
+  /* padding-left: 300px; */
+  padding-left: 15%;
+  padding-top: 5%;
+  margin-bottom: 10%;
+  width: 550px;
+  font-size: 25px;
+  color: #032d60;
+}
+
+#text p {
+  font-size: 22px;
+}
+
+#b {
+  display: flex;
+}
+
+.midpic {
+  border-radius: 20px;
+}
