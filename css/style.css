@@ -195,7 +195,7 @@ header button a {
 }
 
 #num1 {
-  margin-left: 20%;
+  margin-left: 10%;
 }
 
 .but5 {
@@ -311,21 +311,28 @@ header button a {
   /* padding-left: 70px; */
   display: flex;
   /* padding-right: 70px; */
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   margin-bottom: 10%;
 }
 
 .d1 {
-  width: 70%;
+  width: 100%;
   border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .one {
-  width: 50%;
+  /* width: 50%; */
   /* margin-right: -50; */
-  width: fit-content;
-  margin-top: 30px;
+  /* width: fit-content; */
+  /* margin-top: 30px; */
   color: #032d60;
+  border: solid 1px;
+  width: 20%;
+  margin-left: 50px;
+
 }
  
 .one h2 {
@@ -343,4 +350,73 @@ header button a {
   font-size: 50px;
   color: #032d60;
   font-family: Arial;
+  margin-bottom: 50px;
+}
+
+.low {
+  display: flex;
+  margin-bottom: 50px
+}
+
+.bot {
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px 10px #efefef ;
+  width: 20%;
+  margin-left: 50px;
+  text-align: center;
+  font-size: larger;
+  font-family: Arial;
+}
+
+.ye {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#yes {
+  margin-left: 17%;
+}
+
+.but7 {
+  background-color: #0176d3;
+  border-radius: 5px;
+  width: 150px;
+  height: 60px;
+  border-style: none;
+  display: block;
+  margin-left: 47%;
+  margin-bottom: 100px; 
+}
+
+#b7{
+  text-decoration: none;
+  color: white;
+  border: 3px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.us {
+  text-align: center;
+  font-size: 50px;
+  color: #032d60;
+  margin-bottom: 50px;
+}
+
+.jsttxt {
+  display: flex;
+}
+
+.txt {
+  box-shadow: 3px 3px 10px 10px #efefef ;
+  width: 350px;
+  font-family: Arial;
+  padding-left: 20px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+
+#ttt {
+  margin-left: 17%;
 }
