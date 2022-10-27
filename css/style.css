@@ -67,9 +67,11 @@ header button a {
 }
 
 /* homepage style */
-#top button a { 
+#top h1 a { 
   text-decoration: none;
+  color: #032d60;
 }
+
 #top {
   background-image: url(../img/homepage-post-df-cost-savings-lg-bg.webp);
   background-repeat: no-repeat;
@@ -148,16 +150,21 @@ header button a {
 
 }
 
+.mid a {
+  text-decoration: none;
+  color: #032d60;
+}
+
 .h1 {
   margin-bottom: 60px;
   color: #032d60;
   font-size: 50px;
   width: 100%;
-  text-align: center; 
+  text-align: center;
 }
 
 #fer {
-  margin-left: 300px
+  margin-left: 350px
 }
 
 .fir {
@@ -192,8 +199,13 @@ header button a {
   color: #032d60;
 }
 
+.pic1 h3 a {
+  color: #032d60;
+}
+
 .pic1 a {
   font-size: large;
+  text-decoration: none;
 }
 
 #num1 {
@@ -268,6 +280,10 @@ header button a {
   margin-left: 25%;
 }
 
+.left h1 {
+  text-decoration: none;
+  color: #032d60;
+}
 .his {
   margin-left: 25%;
   margin-bottom: 50px;
@@ -275,8 +291,9 @@ header button a {
   width: 50%;
 }
 
-.left {
+.left h1 a {
   color: #032d60;
+  text-decoration: none;
 }
 
 .tx1 {
@@ -295,6 +312,16 @@ header button a {
   margin-left: 20px;
   margin-top: 95px;
   width: 50%;
+}
+
+.txt h2 a {
+  text-decoration: none;
+  color: #032d60;
+}
+
+.sidetext h4 a {
+  text-decoration: none;
+  color: #032d60;
 }
 
 .bg img {
@@ -334,6 +361,11 @@ header button a {
   width: 60%
 }
 
+.one h2 a {
+  text-decoration: none;
+  color: #032d60;
+}
+
 #D1 {
   margin-left: 17%;
 }
@@ -365,6 +397,11 @@ header button a {
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.bot h3 a {
+  text-decoration: none;
+  color: #032d60;
 }
 
 #yes {
@@ -460,13 +497,23 @@ header button a {
   color: white;
   border: 3px;
   font-size: larger;
-  font-weight: bold; 
+  font-weight: bold;
+}
+
+.im1 h1 a {
+  text-decoration: none;
+  color: #032d60;
 }
 
 .pes {
   margin-top: 10%;
   width: 100%;
   display: flex;
+}
+
+.pes h1 a {
+  text-decoration: none;
+  color: #032d60;
 }
 
 .pc {
@@ -603,4 +650,58 @@ header button a {
 .aa p {
   font-weight: bold;
   color: #444444;
+}
+
+footer {
+  background-color: #032d60;
+  display: flex;
+  margin-left: -10px;
+  margin-right: -10px;
+  font-size: small;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.but11 {
+  background-color: #032d60;
+  border-radius: 5px;
+  width: 190px;
+  height: 45px;
+  border-style: solid;
+  border-color: white; 
+  display: block;
+  margin-left: 25%; 
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+#b11 {
+  text-decoration: none;
+  color: white;
+  border: 3px;
+  font-size: larger;
+  font-weight: bold;  
+}
+
+footer p {
+  color: white;
+  width: 98%;
+}
+
+footer a {
+  color: #0176d3;
+}
+
+span {
+  display: flex;
+}
+
+span a {
+  /* width: 20%; */
+  margin-right: 20px;
+}
+
+.fa-solid {
+  margin-top: 30px;
+  /* margin-left: 20px; */
 }
