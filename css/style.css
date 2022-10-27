@@ -2,7 +2,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: #032d60;
 }
-/* header style */
+
 header {
   display: flex;
   padding-right: 20px;
@@ -46,7 +46,7 @@ ul {
 
 .fa-solid {
   margin-top: 30px;
-  margin-top: 30px;
+  margin-top: -30px;
 }
 
 ul a {
@@ -62,7 +62,6 @@ header button a {
 
 #but1 {
   color: white;
-  /* margin-left: 20%; */
   width: 40%;
   height: 55px;
   margin-top: 15px;
@@ -71,7 +70,6 @@ header button a {
   background-color: #2e844a;
 }
 
-/* homepage style */
 #top h1 a { 
   text-decoration: none;
   color: #032d60;
@@ -83,7 +81,6 @@ header button a {
   background-size: 100%;
   background-position: center;
   display: flex;
-  /* border: solid; */
   box-sizing: border-box;
 }
 
@@ -122,8 +119,6 @@ header button a {
 }
 
 #topimg {
-  /* margin-right: auto; */
-  /* display: block; */
   padding-top: 50px;
   position: absolute;
   width: 600px;
@@ -131,7 +126,6 @@ header button a {
 }
 
 #text {
-  /* padding-left: 300px; */
   padding-left: 15%;
   padding-top: 5%;
   margin-bottom: 10%;
@@ -579,11 +573,9 @@ header button a {
 
 .tip h1 {
   font-size: 40px;
-  /* padding-left: 30%; */
   margin-left: 20px;
   width: 65%;
   text-align: center;
-  /* border: 1px solid; */
 }
 
 .tip {
@@ -630,7 +622,6 @@ header button a {
 }
 
 .aa {
-  /* border: 1px solid; */
   width: 330px;
   margin-left: 55px;
 }
@@ -702,7 +693,5 @@ span {
 }
 
 span a {
-  /* width: 20%; */
   margin-right: 20px;
 }
-
