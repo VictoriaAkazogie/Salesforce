@@ -287,13 +287,13 @@ header button a {
 
 .tx2 {
   margin-left: 20px;
-  margin-top: 70px;
+  margin-top: 75px;
   width: 50%;
 }
 
 .tx3 {
   margin-left: 20px;
-  margin-top: 90px;
+  margin-top: 95px;
   width: 50%;
 }
 
@@ -570,17 +570,17 @@ header button a {
 #apic {
   margin-right: 50%;
   width: 35%;
-  margin-bottom: 20%;
+  margin-bottom: 40%;
 }
 
 #aa1 {
-  margin-left: 13%;
+  margin-left: 15%;
 }
 
 .aa {
   /* border: 1px solid; */
   width: 330px;
-  margin-left: 70px;
+  margin-left: 55px;
 }
 
 .aa h4 {
