@@ -44,6 +44,10 @@ ul {
   font-size: larger;
 }
 
+.fa-solid {
+  margin-top: 30px;
+}
+
 ul a {
   text-decoration: underline;;
 }
@@ -701,7 +705,3 @@ span a {
   margin-right: 20px;
 }
 
-.fa-solid {
-  margin-top: 30px;
-  /* margin-left: 20px; */
-}
