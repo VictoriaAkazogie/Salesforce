@@ -508,6 +508,7 @@ header button a {
 }
 
 .blue {
+  margin-top: 10%;
   background-color: #d8e6fe;
   display: flex;
   width: 70%;
@@ -515,26 +516,33 @@ header button a {
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 20px;
   margin-left: 15%;
+  margin-bottom: 10%;
 }
 
 .n1 {
   display: block;
-  margin-top: -7%;
-  position: absolute;
-  width: 20%;
+  margin-top: -10%;
+  width: 30%;
+}
+
+.tip h1 {
+  font-size: 40px;
+  /* padding-left: 30%; */
+  margin-left: 20px;
+  width: 65%;
+  text-align: center;
+  /* border: 1px solid; */
 }
 
 .tip {
-  font-size: 20px;
-  padding-left: 40%;
+  margin-top: 150px;
 }
 
-#n22 {
-  border: 1px solid;
+.n2 {
   display: block;
   position: absolute;
-  margin-top: 5%;
-  margin-right: 50%;
+  margin-top: 6%;
+  margin-left: 47%;
 }
 
 .but10 {
@@ -553,4 +561,46 @@ header button a {
   border: 3px;
   font-size: larger;
   font-weight: bold;   
+}
+
+.bottom {
+  display: flex;
+}
+
+#apic {
+  margin-right: 50%;
+  width: 35%;
+  margin-bottom: 20%;
+}
+
+#aa1 {
+  margin-left: 13%;
+}
+
+.aa {
+  /* border: 1px solid; */
+  width: 330px;
+  margin-left: 70px;
+}
+
+.aa h4 {
+  margin-left: 52%;
+  color: #444444;
+}
+
+.aa li {
+  list-style: none;
+}
+
+.aa a {
+  text-decoration: none;
+  color: #7980c9;
+  font-size: 15px;
+  margin-top: 20%;
+  line-height: 40px;
+}
+
+.aa p {
+  font-weight: bold;
+  color: #444444;
 }
