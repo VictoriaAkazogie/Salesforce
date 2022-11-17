@@ -46,7 +46,7 @@ ul {
 
 .fa-solid {
   margin-top: 30px;
-  margin-top: -30px;
+  /* margin-top: -30px; */
 }
 
 ul a {
@@ -694,4 +694,13 @@ span {
 
 span a {
   margin-right: 20px;
+}
+
+.fa-solid {
+  margin-right: 20px;
+}
+
+.ic {
+  font-size: xx-large;
+  margin-right: 50px;
 }
